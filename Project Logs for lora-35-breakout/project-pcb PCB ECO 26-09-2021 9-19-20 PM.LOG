@@ -1,0 +1,160 @@
+Added Component: Designator=ANT1(Linx-ANT-915-uSP410)
+Added Component: Designator=C?(CAPACITOR_0603)
+Added Component: Designator=C(CAPACITOR_0603)
+Added Component: Designator=D?(SODFL350X90-2N)
+Added Component: Designator=J1(Connector-Pin-Header-2.54mm-1x13 - duplicate)
+Added Component: Designator=J2(Connector-Pin-Header-2.54mm-1x13 - duplicate)
+Added Component: Designator=Q1(INF-PG-SOT23_N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/dgdl/BSS83P_Rev1.5.pdf?folderId=db3a3043156fd5730115d6a107c41454&fileId=db3a304330f686060131045ae20e3ea3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.infineon.com/dgdl/SOT23-Package_Overview.pdf?folderId=db3a30431936bc4b0119532290053c66&fileId=db3a30431936bc4b0119533468123c85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 1.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen-free"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID (max)"; Value = "-0.33 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IDpuls (max)"; Value = "-1.32 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Small Outline Transistor Package, 2.9 x 1.3 mm Body, 0.95 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-SOT23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Apr-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BSS83P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pto t (max)"; Value = "0.36 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QG"; Value = "2.38 nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS (on) (max)"; Value = "2,000 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS (on) (max) (@4.5V)"; Value = "3,000 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rth"; Value = "350 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDS (max)"; Value = "-60 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS(th) (max)"; Value = "-2 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS(th) (min)"; Value = "-1 V"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor_0603)
+Added Component: Designator=SW1(TL3342)
+Added Component: Designator=U1(ADI-UJ-5_M)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-193-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.analog.com/en/index.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.analog.com/static/imported-files/data_sheets/ADP1712_1713_1714.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http:/www.analog.com/static/imported-files/packages/PKG_PDF/TSOT(UJ)/UJ_5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "Product URL:http://www.analog.com/en/ADP1714/productSearch.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iout max"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "5-Pin Thin Small Outline Transistor Package, Body 2.9 x 1.6 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "UJ-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "100708-A, 10/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ADP1714AUJZ-3.3-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preset Vout Values (V)"; Value = "3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current IGND @ Small Load"; Value = "60uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin (max) (V)"; Value = "5.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin (min) (V)"; Value = "2.5"; VariantName = "[No Variations]"
+Added Component: Designator=U2(LoRa-e5)
+Added Pin To Net: NetName=+3V3 Pin=D?-2
+Added Pin To Net: NetName=+3V3 Pin=J1-1
+Added Pin To Net: NetName=+3V3 Pin=U2-1
+Added Net: Name=+3V3
+Added Pin To Net: NetName=GND Pin=ANT1-2
+Added Pin To Net: NetName=GND Pin=J1-13
+Added Pin To Net: NetName=GND Pin=J2-12
+Added Pin To Net: NetName=GND Pin=J2-13
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-14
+Added Pin To Net: NetName=GND Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U2-22
+Added Net: Name=GND
+Added Pin To Net: NetName=I2C2_SCL Pin=J2-2
+Added Pin To Net: NetName=I2C2_SCL Pin=U2-5
+Added Net: Name=I2C2_SCL
+Added Pin To Net: NetName=I2C2_SDA Pin=J2-3
+Added Pin To Net: NetName=I2C2_SDA Pin=U2-6
+Added Net: Name=I2C2_SDA
+Added Pin To Net: NetName=LPUART1_RX Pin=J2-4
+Added Pin To Net: NetName=LPUART1_RX Pin=U2-13
+Added Net: Name=LPUART1_RX
+Added Pin To Net: NetName=LPUART1_TX Pin=J2-5
+Added Pin To Net: NetName=LPUART1_TX Pin=U2-12
+Added Net: Name=LPUART1_TX
+Added Pin To Net: NetName=NetC?_4 Pin=Q1-3
+Added Pin To Net: NetName=NetC?_4 Pin=U1-1
+Added Pin To Net: NetName=NetC?_4 Pin=U1-3
+Added Net: Name=NetC?_4
+Added Pin To Net: NetName=NetC_4 Pin=D?-1
+Added Pin To Net: NetName=NetC_4 Pin=U1-4
+Added Pin To Net: NetName=NetC_4 Pin=U1-5
+Added Net: Name=NetC_4
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=SW1-2
+Added Pin To Net: NetName=NetR1_1 Pin=SW1-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=PA0 Pin=J1-5
+Added Pin To Net: NetName=PA0 Pin=U2-23
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA9 Pin=J1-6
+Added Pin To Net: NetName=PA9 Pin=U2-21
+Added Net: Name=PA9
+Added Pin To Net: NetName=PB3 Pin=J1-7
+Added Pin To Net: NetName=PB3 Pin=U2-8
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=J1-8
+Added Pin To Net: NetName=PB4 Pin=U2-7
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=J1-9
+Added Pin To Net: NetName=PB5 Pin=U2-11
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB10 Pin=J1-10
+Added Pin To Net: NetName=PB10 Pin=U2-20
+Added Net: Name=PB10
+Added Pin To Net: NetName=RESET Pin=J1-4
+Added Pin To Net: NetName=RESET Pin=U2-17
+Added Net: Name=RESET
+Added Pin To Net: NetName=RFIO Pin=ANT1-1
+Added Pin To Net: NetName=RFIO Pin=U2-15
+Added Net: Name=RFIO
+Added Pin To Net: NetName=SPI2_MISO Pin=J2-6
+Added Pin To Net: NetName=SPI2_MISO Pin=U2-26
+Added Net: Name=SPI2_MISO
+Added Pin To Net: NetName=SPI2_MOSI Pin=J2-7
+Added Pin To Net: NetName=SPI2_MOSI Pin=U2-27
+Added Net: Name=SPI2_MOSI
+Added Pin To Net: NetName=SPI2_NSS Pin=J2-8
+Added Pin To Net: NetName=SPI2_NSS Pin=U2-25
+Added Net: Name=SPI2_NSS
+Added Pin To Net: NetName=SPI2_SCK Pin=J2-9
+Added Pin To Net: NetName=SPI2_SCK Pin=SW1-1
+Added Pin To Net: NetName=SPI2_SCK Pin=SW1-1
+Added Pin To Net: NetName=SPI2_SCK Pin=U2-24
+Added Net: Name=SPI2_SCK
+Added Pin To Net: NetName=SWCLK Pin=J1-11
+Added Pin To Net: NetName=SWCLK Pin=U2-4
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J1-12
+Added Pin To Net: NetName=SWDIO Pin=U2-3
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=UART1_RX Pin=J1-2
+Added Pin To Net: NetName=UART1_RX Pin=U2-9
+Added Net: Name=UART1_RX
+Added Pin To Net: NetName=UART1_TX Pin=J1-3
+Added Pin To Net: NetName=UART1_TX Pin=U2-10
+Added Net: Name=UART1_TX
+Added Pin To Net: NetName=UART2_RX Pin=J2-10
+Added Pin To Net: NetName=UART2_RX Pin=U2-18
+Added Net: Name=UART2_RX
+Added Pin To Net: NetName=UART2_TX Pin=J2-11
+Added Pin To Net: NetName=UART2_TX Pin=U2-19
+Added Net: Name=UART2_TX
+Added Pin To Net: NetName=VIN Pin=J2-1
+Added Pin To Net: NetName=VIN Pin=Q1-2
+Added Net: Name=VIN
+Added Class: Name=project-schematic
+Added Room: Name=project-schematic
